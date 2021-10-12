@@ -4,7 +4,7 @@ from math import *
 #Este programa determina el perímetro y área de figuras geométricas
 
 
-#Saludar y preguntar nombre
+#Saludar y preguntar 
 print ("¡Hola, lindo día!")
 print ("¿Cómo te llamas?")
 nombre = input()
